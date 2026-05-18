@@ -4,3 +4,4 @@ wandb/*
 vis_result/*
 *.jpg
 *.jpeg
+*.txt
